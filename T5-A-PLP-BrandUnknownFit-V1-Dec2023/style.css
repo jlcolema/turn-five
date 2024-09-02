@@ -1,0 +1,12 @@
+/* Variation */
+
+.ti486 {}
+
+.ti486 .proof-of-concept__button {
+	display: block;
+	width: 300px;
+	margin: 50px auto;
+	padding: 10px;
+	color: #ffffff;
+	background-color: #c33a32;
+}
